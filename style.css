@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+h1 {
+  color: whitesmoke;
+  font-variant: normal;
+}
+
+h2 {
+  color: whitesmoke;
+  font-variant: normal;
+}
+
+p {
+  color: whitesmoke;
+  font-variant: normal;
+}
+
+ul {
+  color: white;
+}
